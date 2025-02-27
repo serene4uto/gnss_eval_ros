@@ -86,7 +86,7 @@ class GnssEval(Node):
 
         hpe_dist = np.sqrt(np.sum(hpe_coords**2))
 
-        return hpe_dist, hpe_dist
+        return hpe_coords, hpe_dist
 
 
 
