@@ -1,0 +1,7 @@
+gnss_eval:
+  ros__parameters:
+    ground_truth:
+      latitude: 35.97237383
+      longitude: 128.93865707
+      altitude: 0.0
+    log_enable: true
